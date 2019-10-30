@@ -26,7 +26,7 @@
     "metascraper-title": "^4.10.1",
     "metascraper-url": "^4.10.1",
     "metascraper-youtube": "^4.10.1",
-    "mongoose": "^5.3.14",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "nodemon": "^1.18.7",
     "parse-domain": "^2.1.7",
