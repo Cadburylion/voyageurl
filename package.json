@@ -6,7 +6,7 @@
   "dependencies": {
     "@material-ui/core": "^4.2.1",
     "@researchgate/react-intersection-observer": "^0.7.4",
-    "auth0-js": "^9.10.0",
+    "auth0-js": "^9.13.2",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "base62": "^2.0.0",
