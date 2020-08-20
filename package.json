@@ -10,7 +10,7 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "base62": "^2.0.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "celebrate": "^10.0.1",
     "cookie-parser": "^1.4.4",
